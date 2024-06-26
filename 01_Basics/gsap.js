@@ -66,7 +66,18 @@ gsap.to(".box",{
     repeat:-1,                              // repeat 1 means ekda origional and ekda repeat means n+1    and -1 means infinity
     yoyo:true
 })
+    
 
+
+
+
+
+
+
+
+
+     // properties leaen so far 
+     // delay duration stagger repeat yoyo rotate and css in js
 
 
 
